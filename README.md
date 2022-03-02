@@ -17,9 +17,8 @@ O objetivo do projeto será desenvolver um modelo para detectar o sentimento de 
 
 ## Etapas
 
-O projeto consistirá em 4 etapas:
+O projeto consistirá em 3 etapas:
 
 - 1) Análise da consistência dos dados
-- 2) Análise exploratória
-- 4) Pré-processamento
-- 5) Modelagem e conclusões
+- 2) Análise exploratória e Pré-processamento
+- 3) Modelagem e conclusões
