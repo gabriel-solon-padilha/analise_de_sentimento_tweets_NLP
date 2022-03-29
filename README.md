@@ -1,4 +1,4 @@
-# analise_de_sentimento_tweets
+# projeto_10_analise_de_sentimento_tweets
 ----------------
 ## O problema 
 
