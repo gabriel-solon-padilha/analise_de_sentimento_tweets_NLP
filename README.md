@@ -13,7 +13,7 @@ Descrição das colunas:
 
 O objetivo do projeto será desenvolver um modelo para detectar o sentimento de uma publicação do Twitter a classificando em uma das três categorias: positiva, negativa ou neutra. O texto da publicação está disponível na coluna "tweet_text". 
 
-## Etapas
+## Desenvolvimento
 
 O projeto consistirá em 3 etapas:
 
@@ -21,7 +21,7 @@ O projeto consistirá em 3 etapas:
 - 2) Análise exploratória e Pré-processamento
 - 3) Modelagem e conclusões
 
-## Conclusões e resultados alcançados
+## Resultados encontrados e conclusões
 
  sentiment| precision  |  recall  |f1-score  | support
  ---------|--------|-----------|----------|-------------
